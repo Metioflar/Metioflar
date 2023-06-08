@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
   <table> 
-    <tr>
+    <tr align="center">
     <td align="center">
       <a align="center" href='https://github.com/Metioflar/Metioflar/blob/main/README_PT_BR.MD'> 
        <img align="center" alt="Nicolle-Python" height="40" width="40" src="https://raw.githubusercontent.com/Metioflar/Metioflar/main/brazil.png">              Brazilian Portuguese</a>
