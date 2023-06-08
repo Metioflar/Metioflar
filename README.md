@@ -3,8 +3,7 @@
     <tr>
     <td>
       <a href='https://github.com/Metioflar/Metioflar/blob/main/README_PT_BR.MD'> 
-       <img align="center" alt="Nicolle-Python" height="40" width="40" src="https://raw.githubusercontent.com/Metioflar/Metioflar/main/brazil.png">              Brazilian Portuguese  
-      </a><br><br>
+       <img align="center" alt="Nicolle-Python" height="40" width="40" src="https://raw.githubusercontent.com/Metioflar/Metioflar/main/brazil.png">              Brazilian Portuguese</a>
   <a href='https://github.com/Metioflar'> <img align="center" alt="Nicolle-Python" height="40" width="40" src="uk-circle-01.png">
     United States English </a>
       </td>
