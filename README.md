@@ -21,6 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 
 ### Studying to get better in:
