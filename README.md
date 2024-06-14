@@ -10,6 +10,5 @@
 ### Studying to get better in:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=purple&labelColor=0D1117)&nbsp;  
-![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
