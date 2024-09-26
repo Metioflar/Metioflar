@@ -11,4 +11,4 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=purple&labelColor=0D1117)&nbsp;  
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  <img src="(https://img.shields.io/badge/vue.js-brightgreen?style=flat-square&color=4FC08D&logo=vue.js)"/>
+![Vue.js](https://img.shields.io/badge/vue.js-brightgreen?style=for-the-badge&color=4FC08D&labelColor=0D1117&logo=vue.js)&nbsp; 
